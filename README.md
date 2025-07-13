@@ -47,5 +47,6 @@ Kode bisa berubah sewaktu-waktu.
 
 👤 Author
 ficrammanifur
----
-##Feel free to use, modify, and share!
+
+Feel free to use, modify, and share!
+--
