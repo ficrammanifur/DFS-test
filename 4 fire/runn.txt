@@ -1,0 +1,7 @@
+c++
+g++ dfs_fire_sim.cpp -o dfs_fire_sim
+./dfs_fire_sim
+
+py
+pip install matplotlib
+python dfs_fire_viz.py
