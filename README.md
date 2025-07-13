@@ -1,7 +1,9 @@
 # DFS-test
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)  
-![License](https://img.shields.io/badge/license-MIT-blue)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
+</p>
 
 🚀 **DFS-test** adalah repositori percobaan (test project) untuk implementasi dan simulasi algoritma **Depth-First Search (DFS)**, misalnya digunakan untuk simulasi pemadaman api atau penelusuran graf.
 
@@ -45,6 +47,5 @@ Kode bisa berubah sewaktu-waktu.
 
 👤 Author
 ficrammanifur
-
-📝 License
-MIT – Feel free to use, modify, and share!
+---
+##Feel free to use, modify, and share!
